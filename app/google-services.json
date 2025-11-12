@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239710056302",
+    "project_id": "foodoreder-53e16",
+    "storage_bucket": "foodoreder-53e16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239710056302:android:7aabd8140d5e0d14181b7f",
+        "android_client_info": {
+          "package_name": "com.example.baitap02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZKz5ftOCL1kiE9D-a2spNORFgYOB9NOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239710056302:android:6e87008b42f023ef181b7f",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.foodordering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZKz5ftOCL1kiE9D-a2spNORFgYOB9NOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
